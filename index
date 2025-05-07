@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Enlaces de ejemplo</title>
+</head>
+<body>
+  <h1>Mis Enlaces Favoritos</h1>
+  <ul>
+    <li><a href="https://www.google.com" target="_blank">Google</a></li>
+    <li><a href="https://www.linkedin.com" target="_blank">LinkedIn</a></li>
+    <li><a href="https://www.github.com" target="_blank">GitHub</a></li>
+  </ul>
+</body>
+</html>
